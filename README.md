@@ -1,5 +1,9 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4E03AQH-bO4rh_i81g/profile-displayphoto-shrink_200_200/B4EZVKRUpQGYAY-/0/1740707811672?e=2147483647&v=beta&t=RDOXPab7XSPglpdgT-oSrj7y67hfGWVldpbQl78Edkc"  />
+<img 
+  src="https://media.licdn.com/dms/image/v2/D4E03AQH-bO4rh_i81g/profile-displayphoto-shrink_200_200/B4EZVKRUpQGYAY-/0/1740707811672?e=2147483647&v=beta&t=RDOXPab7XSPglpdgT-oSrj7y67hfGWVldpbQl78Edkc" 
+  height="200" 
+  style="border-radius: 50%; border: 3px solid black;"
+/>
 </div>
 
 ###
@@ -26,7 +30,50 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/anik22889219/anik22889219/output/snake.svg" alt="Snake animation" />
+### 💻 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://inspirux.com" target="_blank">
+        <img src="https://iili.io/36xz65G.png" alt="Mouse Interaction" style="max-width: 100%; height: auto; border-radius: 8px;" />
+      </a><br/>
+      <b style="color:white;">Mouse Interaction</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://eleatcereal.com" target="_blank">
+        <img src="https://iili.io/36xcBrQ.md.png" alt="Eleat Cereal" style="max-width: 100%; height: auto; border-radius: 8px;" />
+      </a><br/>
+      <b style="color:white;">Eleat Cereal</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.vapesuperstore.co.uk" target="_blank">
+        <img src="https://iili.io/36xXGuR.png" alt="Vape Superstore" style="max-width: 100%; height: auto; border-radius: 8px;" />
+      </a><br/>
+      <b style="color:white;">Vape Superstore</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://whitehallvineyard.co.uk" target="_blank">
+        <img src="https://iili.io/36xeTua.png" alt="Whitehall Vineyard" style="max-width: 100%; height: auto; border-radius: 8px;" />
+      </a><br/>
+      <b style="color:white;">Whitehall Vineyard</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://bundlee.co.uk" target="_blank">
+        <img src="https://iili.io/36xrv1f.md.png" alt="Bundlee Baby" style="max-width: 100%; height: auto; border-radius: 8px;" />
+      </a><br/>
+      <b style="color:white;">Bundlee Baby</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.illegalpetes.com" target="_blank">
+        <img src="https://iili.io/36xshV1.png" alt="Illegal Pete's" style="max-width: 100%; height: auto; border-radius: 8px;" />
+      </a><br/>
+      <b style="color:white;">Illegal Pete's</b>
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -62,11 +109,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anik22889219/anik22889219/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anik22889219/anik22889219/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anik22889219/anik22889219/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
@@ -77,6 +120,8 @@
 </div>
 
 ###
+
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=anik22889219.anik22889219&"  />
